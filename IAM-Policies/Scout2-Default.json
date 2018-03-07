@@ -32,6 +32,8 @@
                 "elasticfilesystem:DescribeTags",
                 "elasticloadbalancing:DescribeLoadBalancerAttributes",
                 "elasticloadbalancing:DescribeLoadBalancers",
+                "elasticloadbalancing:DescribeLoadBalancerPolicies",
+                "elasticloadbalancing:DescribeListeners",
                 "elasticloadbalancing:DescribeSSLPolicies",
                 "elasticmapreduce:DescribeCluster",
                 "elasticmapreduce:ListClusters",
